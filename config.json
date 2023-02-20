@@ -1,0 +1,12 @@
+{
+  "ownerNumber": ["6285921165857@s.whatsapp.net"],
+  "ownerName": ["Christian ID"],
+  "botName": "Baymax Bot",
+  "footer": "2022 © CHRISTIAN ID",
+  "sessionName": "session",
+  "pathimg": "./media/baymax.jpg",
+  "sticker": {
+        "packname": "Created By",
+        "author": "Christian ID"
+    }
+}
